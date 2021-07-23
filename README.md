@@ -16,8 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/responsive-articles-preview-component-GYRGBhI-e)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sad-khorana-c37233.netlify.app/](https://sad-khorana-c37233.netlify.app/)
 
 
 ### Built with
