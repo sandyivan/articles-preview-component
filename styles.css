@@ -159,6 +159,18 @@ p {
 }
 
 
+/*** footer **********/
+.attribution {
+    color: hsl(217, 19%, 35%);
+    position: absolute;
+    bottom: 200px;
+    right: 10px;
+    left: 10px;
+}
+
+.attribution a {
+    color:  hsl(212, 23%, 69%);
+}
 
 
 
